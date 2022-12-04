@@ -1,6 +1,6 @@
 # 시스템 설계서
 
-#### 오픈소스 8 _ 1302
+### 오픈소스 8 _ 1302
 
 
 이기혁, 이건우, 윤종호, 유혁상, 김민지, 김선혜, 김민서
@@ -38,10 +38,10 @@
 
    배송이 될 때 위치가 명확하지 표시되지 않는 순간들이 있다. 이 서비스에서 Osmdroid로 위치를 보다 명확히 파악하여 추적하기 용이하게 하는 것이 목표이다.
     
-    <br>
+   <br>
     
-   #### 4-2. Delivery Tracker 
-   
+   #### 4-2. Delivery Tracker
+
    (https://github.com/shlee322/delivery-tracker)
    
    delevery-tracker는 Delivery and Shipping Tracking Service이며 MIT license입니다.
