@@ -40,7 +40,7 @@
     
     <br>
     
-    4-2. Delivery Tracker (https://github.com/shlee322/delivery-tracker)
+    #### 4-2. Delivery Tracker (https://github.com/shlee322/delivery-tracker)
    
    delevery-tracker는 Delivery and Shipping Tracking Service이며 MIT license입니다.
 
@@ -53,28 +53,25 @@
    
    <br>
    
-   4-3. opencart
+   #### 4-3. opencart
 
-   - 설명
+   (https://github.com/opencart/opencart)
 
-   - https://github.com/opencart/opencart
+   라이센스: GPLv3  
+   latest release: 2022.08.27  
+   current version: 4.0.1.1  
 
-     라이센스: GPLv3
-     latest release: 2022.08.27
-     current version: 4.0.1.1
+   오픈카트는 온라인 판매자를 위한 무료 오픈소스 전자상거래 플랫폼이다.  
+   오픈카트가 사용되기 위해 웹 서버(Apache 권장), PHP 5.4+, 데이터베이스(MySQLi 권장)가 필요하다. 이후에 다운로드를 받아 사용하면 되는데 홈페이지에 가면 설명영상과 함께 자세히 설명되어있다.  
+   다양한 언어와 통화, 제품 리뷰, 많은 종류의 결제 게이트웨이가 사용 가능하다.
 
-     오픈카트는 온라인 판매자를 위한 무료 오픈소스 전자상거래 플랫폼이다.
-     오픈카트가 사용되기 위해 웹 서버(Apache 권장), PHP 5.4+, 데이터베이스(MySQLi 권장)가 필요하다.
-     이후에 다운로드를 받아 사용하면 되는데 홈페이지에 가면 설명영상과 함꼐 자세히 설명되어있다.
-     다양한 언어와 통화, 제품 리뷰, 많은 종류의 결제 게이트웨이가 사용 가능하다.
-
-     사용되는 부분
-     웹 서버의 오픈카트를 활용하여 제품의 주문,결제 등 제품을 구매하는 전반적인 행위를 하게된다.
-     판매 보고서와 리뷰, 고객정보를 DB에 받아서 정보를 처리하는데 사용할 수 있다.
+   사용되는 부분  
+   웹 서버의 오픈카트를 활용하여 제품의 주문,결제 등 제품을 구매하는 전반적인 행위를 하게된다.  
+   판매 보고서와 리뷰, 고객정보를 DB에 받아서 정보를 처리하는데 사용할 수 있다.
    
    <br>
    
-   4-4. gorse 
+   #### 4-4. gorse 
    
    (https://github.com/gorse-io/gorse)
    
@@ -115,7 +112,7 @@
    
    <br>
    
-   4-5. elastic search
+   #### 4-5. elastic search
    
    (https://github.com/elastic/elasticsearch)
    
@@ -209,7 +206,7 @@
 
    <br>
 
-   4-6. Apache HTTP Server
+   #### 4-6. Apache HTTP Server
 
    (https://github.com/apache/httpd)
 
@@ -233,7 +230,7 @@
 
    <br>
 
-   4-7.Redis 
+   #### 4-7.Redis 
    
    (https://github.com/redis/redis)
 
@@ -258,7 +255,7 @@
    ④. 다양한 개발 언어 지원 redis개발자는 백개가 넘는 오픈소스 클라이언트를 사용할수있으며 굉장히 다양한 언어가 모두 지원됩니다.
 
 
-   4-8. Scrapy 
+   #### 4-8. Scrapy 
 
    (https://github.com/scrapy/scrapy)
 
