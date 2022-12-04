@@ -26,7 +26,7 @@
 
 4. 사용된 오픈소스 소프트웨어 소개
 
-   #### 4-1. osmdroid 
+   ##### 4-1. osmdroid 
 
    (https://github.com/osmdroid/osmdroid)
 
