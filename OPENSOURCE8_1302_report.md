@@ -105,7 +105,7 @@
    소스에서 설치: git clone https://github.com/gorse-io/PyGorse.git  
    cd PyGorse  
    pip install . #용법
-   점포와 API 키로 친족을 제외합니다.
+   점포와 API 키로 친족을 제외합니다.  
    
    <API-Go>  
    설치: go get github.com/zhenghaoz/gorse/client@master
