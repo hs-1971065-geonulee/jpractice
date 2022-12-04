@@ -26,7 +26,7 @@
 
 4. 사용된 오픈소스 소프트웨어 소개
 
-   4-1. osmdroid 
+   #### 4-1. osmdroid 
 
    (https://github.com/osmdroid/osmdroid)
 
@@ -126,8 +126,8 @@
    보통 ELK Stack(Elasticsearch, Logstash, Kibana의 머리글자)이라고 하는 Elastic Stack에는 이제 데이터를 Elasticsearch로 전송하기 위한 경량의 다양한 데이터 수집 에이전트인 Beats가 포함되어 있습니다.
 
    Elasticsearch의 사용처  
-     애플리케이션 검색  
-   	웹사이트 검색  
+   애플리케이션 검색  
+   웹사이트 검색  
    엔터프라이즈 검색  
    로깅과 로그 분석  
    인프라 메트릭과 컨테이너 모니터링  
