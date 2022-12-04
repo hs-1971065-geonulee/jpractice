@@ -40,7 +40,9 @@
     
     <br>
     
-   #### 4-2. Delivery Tracker (https://github.com/shlee322/delivery-tracker)
+   #### 4-2. Delivery Tracker 
+   
+   (https://github.com/shlee322/delivery-tracker)
    
    delevery-tracker는 Delivery and Shipping Tracking Service이며 MIT license입니다.
 
